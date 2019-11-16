@@ -16,7 +16,7 @@
 
 #include <stdio.h>
 
-int main(){
+int main(void){
     int number1, number2, number3;
     int sum, product;
     double average;

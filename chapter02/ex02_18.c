@@ -16,13 +16,13 @@ int main(){
     scanf("%d %d", &number1, &number2);
 
     if(number1 > number2)
-        printf("%d is larger", number1);
+        printf("%d is larger\n", number1);
 
     if(number2 > number1)
-        printf("%d is larger", number2);
+        printf("%d is larger\n", number2);
 
     if(number1 == number2)
-        printf("These numbers are equal");
+        printf("These numbers are equal\n");
 
     return 0;
 }

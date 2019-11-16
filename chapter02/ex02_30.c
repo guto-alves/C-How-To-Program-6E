@@ -1,3 +1,12 @@
+/* 2.30 Separando dígitos em um inteiro. Escreva um programa
+que leia um número de cinco dígitos, separe o número
+em dígitos individuais e imprima os dígitos separados um
+do outro por três espaços cada um. [Dica: use combinações
+da divisão inteira e da operação módulo.] Por exemplo, se o
+usuário digitar 42139, o programa deverá exibir
+    4 2 1 3 9
+*/
+
 #include <stdio.h>
 
 int main(){
